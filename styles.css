@@ -12,11 +12,12 @@
 .pizza-jay{
     width: 600px;
     height: auto;
+    padding-top: 18px;
 }
 
 .jay-by{
     font-size: 15px;
-    padding-top: 0px;
+    padding-top: 18px;
 }
 
 .allrep{
@@ -29,3 +30,12 @@
     text-align: center ;
     background-color: rgb(255, 210, 61);
 } */
+
+.descr-jay,
+.steps-jay{
+    padding-top: 18px;
+}
+
+.about-jay{
+    margin-top: -10px;
+}
