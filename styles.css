@@ -5,19 +5,22 @@ li{
     margin-top: 15px;
 }
 
-.full1{
+.full1,
+.full2{
     width: 600px;
     margin: 0 0 0 100px;
     padding: 0px 0px 0px 100px;
 }
 
-.pizza-jay{
+.pizza-jay,
+.pizza-two{
     width: 600px;
     height: auto;
     padding-top: 18px;
 }
 
-.jay-by{
+.jay-by,
+.two-by{
     font-size: 15px;
     padding-top: 18px;
 }
@@ -34,11 +37,14 @@ li{
 } */
 
 .descr-jay,
-.steps-jay{
+.steps-jay,
+.descr-two,
+.steps-two{
     padding-top: 18px;
 }
 
-.about-jay{
+.about-jay,
+.about-two{
     margin-top: -10px;
 }
 
