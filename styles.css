@@ -6,21 +6,24 @@ li{
 }
 
 .full1,
-.full2{
+.full2,
+.full3{
     width: 600px;
     margin: 0 0 0 100px;
     padding: 0px 0px 0px 100px;
 }
 
 .pizza-jay,
-.pizza-two{
+.pizza-two,
+.pizza-pesto{
     width: 600px;
     height: auto;
     padding-top: 18px;
 }
 
 .jay-by,
-.two-by{
+.two-by,
+.pesto-by{
     font-size: 15px;
     padding-top: 18px;
 }
@@ -39,12 +42,15 @@ li{
 .descr-jay,
 .steps-jay,
 .descr-two,
-.steps-two{
+.steps-two,
+.descr-pesto,
+.steps-pesto{
     padding-top: 18px;
 }
 
 .about-jay,
-.about-two{
+.about-two,
+.about-pesto{
     margin-top: -10px;
 }
 
