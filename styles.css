@@ -1,7 +1,9 @@
 
 
 
-
+li{
+    margin-top: 15px;
+}
 
 .full1{
     width: 600px;
@@ -39,3 +41,4 @@
 .about-jay{
     margin-top: -10px;
 }
+
