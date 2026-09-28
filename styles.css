@@ -1,8 +1,9 @@
-.jay{
-    width: 400px;
-    height: 400px;
+*{
+    padding: 0px 0px 0px 30px;
 }
 
-.two{
-    height: 400px;
+
+.jay{
+    width: 450px;
+    text-align: center;
 }
