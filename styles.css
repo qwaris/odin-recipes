@@ -16,9 +16,16 @@
 
 .jay-by{
     font-size: 15px;
-    padding-top: 18px;
+    padding-top: 0px;
 }
 
 .allrep{
     color: black;
+}
+
+.cook-b1{
+    display: block;
+    width: 900px;
+    text-align: center ;
+    background-color: rgb(255, 210, 61);
 }
